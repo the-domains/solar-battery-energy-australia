@@ -1,3 +1,18 @@
+layout_spectrum: 0.5906062986610439
+typography_spectrum: 0.1942744141145803
+color:
+  lightness: 0.784239248909462
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  saturation: 0.9786484827875795
+  brandStrength: 0.6355874017283948
+  rhythmicContrast: 0.2798863817788292
+coverPrefs:
+  filter: false
 name: Solar and Battery Power Australia
 analytics: {}
 github: true
@@ -19,20 +34,7 @@ collections:
     permalink:
       path: '/:title/'
 content: []
-layout_spectrum: 0.1874048486351967
-color:
-  lightness: 0.4569132366350184
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  saturation: 0.709670064437592
-  brandStrength: 0.4614209019256339
-  rhythmicContrast: 0.0725941476581139
 content_rating:
   adult: false
-typography_spectrum: 0.7997081154026091
 opengraph: {}
 title: Solar and Battery Power Australia
